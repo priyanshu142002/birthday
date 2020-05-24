@@ -1,0 +1,99 @@
+body{
+      background-image: url(https://media.giphy.com/media/l3q2RgN7WUjeUUXm0/giphy.gif);
+    background-size: cover;
+}
+
+
+.wiz1{
+  height: 130px;
+  width: 130px;
+  position: absolute;
+  right: 650px;
+}
+.navbar{
+  height: 160px;
+    background-image: url(https://media.giphy.com/media/l3q2RgN7WUjeUUXm0/giphy.gif);
+    background-size: cover;
+}
+.heading{
+  margin: 60px auto 60px auto;
+  text-align: center;
+  font-family: cursive;
+  font-size: 110px;
+  color: #b5c6e0;
+}
+.msg{
+  margin: 60px auto 60px auto;
+  text-align: center;
+  font: italic small-caps bold 16px/2 cursive;
+  font-size: 34px;
+  color: #66BFBF;
+}
+.harryp{
+  height: 180px;
+  width: 180px;
+  float: left;
+  margin-right: 20px;
+}
+
+h1{
+  color: #3a7ff2;
+  margin-left: 20px;
+  margin-bottom: 40px;
+  padding: 0 0 0 20px;
+}
+p{
+margin-left: 20px;
+font: italic small-caps bold 18px/2 cursive;
+color: #62f4f9;
+margin-top: 40px;
+padding: 20px;
+line-height: 2;
+}
+.bika{
+  width: 50%;
+margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.boook{
+float: right;
+margin-left: 20px;
+}
+img{
+  height: 180px;
+  width: 180px;
+}
+.wishes{
+  text-align: center;
+  margin: 50px;
+}
+.wish1{
+  color: #b597f6;
+}
+.btn {
+	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+	background-image: url(https://i.gifer.com/origin/d5/d5ad26946ea702bda4a9f0a8b7f21b53_w200.webp);
+	border-radius:9px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #1dc6f0;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+	background-color:#5cbf2a;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.ppi{
+  text-align: center;
+}
